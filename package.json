@@ -1,0 +1,7 @@
+{
+  "name": "vimeo-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hugo Moraes Bonatto <hugomoraes_@hotmail.com>",
+  "license": "MIT"
+}
